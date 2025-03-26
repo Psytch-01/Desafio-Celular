@@ -41,3 +41,9 @@ Além da implementação em **Java**, a proposta inclui a criação de um **diag
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Psytch-01/Desafio-Celular
+   
+---
+
+## UML Diagram 📐
+
+![Diagrama UML do Projeto]()
