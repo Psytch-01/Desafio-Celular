@@ -46,4 +46,4 @@ Além da implementação em **Java**, a proposta inclui a criação de um **diag
 
 ## UML Diagram 📐
 
-![Diagrama UML do Projeto](...)
+![Diagrama UML do Projeto](https://raw.githubusercontent.com/Psytch-01/Desafio-Celular/main/Assets/UML-Desafio-Iphone.PNG)
